@@ -1,0 +1,36 @@
+ 
+.billStyle{
+
+   
+    width: 10%;
+    margin-right: 50%;
+   font-size:20px;
+margin-right: 50%; 
+background-size: contain; 
+
+font-family:cursive;
+color: chocolate;
+ 
+  margin-right: 50%;
+ font-size:20px;
+margin-right: 50%; 
+background-size: contain;
+font-family:cursive;
+
+
+
+  }
+  
+ td, th {
+    
+    padding: 8px;
+  }
+   
+  tr:hover {background-color: sandybrown;}
+  
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+  }
+   
